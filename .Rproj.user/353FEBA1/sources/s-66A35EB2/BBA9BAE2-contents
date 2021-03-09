@@ -2,7 +2,7 @@
 
 x <- c(188,178,193,167,184,202,182,175,172,190)
 
-# y vektor sa idealnim tezninama za date visine
+# y vektor sa idealnim tezinama za date visine
 
 y <- c(81,70,85,55,75,95,74,62,60,80)
 
